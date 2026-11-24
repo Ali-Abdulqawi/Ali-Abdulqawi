@@ -1,6 +1,6 @@
 ## Hi, I'm Ali Abdulqawi Moqbel
 
-**AI Automation Specialist and Web Developer** based in Jeddah, Saudi Arabia.
+**AI Automation Specialist and Web Developer**
 
 I turn manual business processes into AI agents and automated workflows. I work with Python, the OpenAI API, n8n and Streamlit, and I build in both English and Arabic. I combine an IT degree with an MBA, so I start from the business problem, not the tool.
 
@@ -32,4 +32,4 @@ I turn manual business processes into AI agents and automated workflows. I work 
 
 ### Open to
 
-AI automation, AI agent and web development roles in Saudi Arabia, plus freelance automation projects. Feel free to reach out.
+AI automation, AI agent and web development roles, plus freelance automation projects. Feel free to reach out.
