@@ -14,7 +14,7 @@ I turn manual business processes into AI agents and automated workflows. I work 
 
 | Project | What it does | Links |
 |---|---|---|
-| **Talk or Type to Your Database** | Ask business data questions by voice or text, in English or Arabic, and get a spoken answer backed by real SQL. Read-only and self-correcting. | [Demo](https://voice-database-agent.streamlit.app) · [Code](https://github.com/Ali-Abdulqawi/voice-database-agent) |
+| **Talk or Type to Your Database** | Ask business data questions by voice or text, in English, Arabic or other languages, and get a spoken answer backed by real SQL. Read-only and self-correcting. | [Demo](https://voice-database-agent.streamlit.app) · [Code](https://github.com/Ali-Abdulqawi/voice-database-agent) |
 | **Decision-Making AI Agent** | Tells freelancers whether to accept, reject or ask for more info on a deal, with an explainable 100-point score and an optional GPT review. | [Demo](https://decision-making-ai.streamlit.app) · [Code](https://github.com/Ali-Abdulqawi/Decision-Making-AI-Agent) |
 | **AI Marketing Content Agent** | Turns a short business brief into a full content pack: blog ideas, SEO titles, captions and landing-page copy, in Arabic or English. | [Demo](https://ai-marketing-content-agent.streamlit.app) · [Code](https://github.com/Ali-Abdulqawi/ai-marketing-content-agent) |
 | **Movie Recommendation System** | Content-based recommender using TF-IDF and cosine similarity on the TMDB 5000 dataset. | [Demo](https://ai-movie-recommender-ali.streamlit.app) · [Code](https://github.com/Ali-Abdulqawi/ai-movie-recommender-Ali) |
